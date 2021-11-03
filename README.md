@@ -26,7 +26,7 @@
   };
 ```
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=imjustnon&show_icons=true&locale=en&layout=compact" alt="imjustnon"/> 
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=imjustnon&" alt="imjustnon"/> 
 
 <h1 align="center">💖 My Favourite Hololive 💖</h1>
 
