@@ -1,6 +1,6 @@
 <h1 align="center">•● W E L C O M E - T O - M Y - P R O F I L E ●•</h1>
 <p>
-  <h3 align="left">⏬ ─ ✨ About Me ✨</h3>
+  <h3 align="left">⏬ ─ ✨ About Me ✨</h3><br>
   <h3 align="right">✨ My Stats ✨ ─ ⏬</h3>
 </p>
 
