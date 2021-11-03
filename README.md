@@ -26,3 +26,7 @@
 ## 💖 My Love Picture 💖
 
 ![](https://cdn.discordapp.com/attachments/831877886680104971/905424865190899723/Konachan.com_-_323955_sample.jpg)
+
+## My State
+
+![](https://github-readme-stats.vercel.app/api?username=ImJustNon&&show_icons=true&title_color=f7f8fa&icon_color=ffff47&text_color=4794ff&bg_color=78ddff)
