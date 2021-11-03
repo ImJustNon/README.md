@@ -26,7 +26,7 @@
      },
   };
 ```
-<br /> <br /> <br />
+<br /> <br /> 
 
 
 <h1 align="center">💖 My Favourite Hololive 💖</h1>
