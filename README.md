@@ -3,10 +3,20 @@
 ⏬ ─ **✨ About Me ✨** 
 ```js
   const Me = {
-    Name : Non
-    Age : Try To Guess
-     
-  }
+    Name : Non,
+    Age : Try To Guess,
+    Language : {
+      Python : ✅ ,
+      Lua : ✅ ,
+      C : ❌ ,
+      C# : 📙 ,
+      JavaScript : ✅ ,
+      HTML : 📙 ,
+      CSS : 📙 ,
+      TypeScript : 📙 ,
+    },
+    FavouriteHololive : Lamy Chan✨ ,
+  };
 ```
 
 ## 💖 My Love Picture 💖
