@@ -1,7 +1,7 @@
 <h1 align="center">•● W E L C O M E - T O - M Y - P R O F I L E ●•</h1>
 
-[<h3 align="left">⏬ ─ ✨ About Me ✨</h3>]
-[<h3 align="right">✨ State ✨ ─ ⏬</h3>]
+<h3 align="left">⏬ ─ ✨ About Me ✨</h3>
+<h3 align="right">✨ State ✨ ─ ⏬</h3>
 
 <br / >
 
