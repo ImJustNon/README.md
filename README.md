@@ -1,6 +1,6 @@
 ## ────────── •● W E L C O M E - T O - M Y - P R O F I L E ●• ──────────
 
-** ────────────────── ✨ About Me ✨ ──────────────────
+** ✨ About Me ✨
 
 
 ## My Love Picture
