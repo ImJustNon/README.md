@@ -1,8 +1,8 @@
 <h1 align="center">•● W E L C O M E - T O - M Y - P R O F I L E ●•</h1>
-<p>
+
   <h3 align="left">⏬ ─ ✨ About Me ✨</h3>/s
   <h3 align="right">✨ My Stats ✨ ─ ⏬</h3>
-</p>
+
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=ImJustNon&&show_icons=true&title_color=427bff&icon_color=bb2acf&text_color=000000&bg_color=FFFFFF"/>
 
