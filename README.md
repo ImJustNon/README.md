@@ -28,7 +28,7 @@
 
 <h1 align="center">💖 My Favourite Hololive 💖</h1>
 
-![https://cdn.discordapp.com/attachments/831877886680104971/905424865190899723/Konachan.com_-_323955_sample.jpg](https://www.youtube.com/watch?v=dkE4mVhwMB4&t=789s)
+[![](https://cdn.discordapp.com/attachments/831877886680104971/905424865190899723/Konachan.com_-_323955_sample.jpg)](https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw)
 
 ⚙ **[Source Code](https://github.com/ImJustNon/ImJustNon)** ⚙
 
