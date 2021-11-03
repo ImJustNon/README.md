@@ -2,7 +2,7 @@
 
 ⏬ ─ **✨ About Me ✨**    
 
-<img align="left"src="https://cdn.discordapp.com/attachments/902487351954124849/902848172563521576/card.png"/>
+<img align="left" src="https://cdn.discordapp.com/attachments/902487351954124849/902848172563521576/card.png"/>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=ImJustNon&&show_icons=true&title_color=427bff&icon_color=bb2acf&text_color=000000&bg_color=FFFFFF"/>
 
 ```js
