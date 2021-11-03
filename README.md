@@ -3,7 +3,7 @@
 <h3 align="left">⏬ ─ ✨ About Me ✨</h3>
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ImJustNon&&show_icons=true&title_color=427bff&icon_color=bb2acf&text_color=000000&bg_color=FFFFFF"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=ImJustNon&&show_icons=true&title_color=427bff&icon_color=bb2acf&text_color=000000&bg_color=FFFFFF" alt="imjustnon"/>
 
 ```js
 
@@ -26,7 +26,7 @@
   };
 ```
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=imjustnon&show_icons=true&locale=en&layout=compact"/> 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=imjustnon&show_icons=true&locale=en&layout=compact" alt="imjustnon"/> 
 
 <h1 align="center">💖 My Favourite Hololive 💖</h1>
 
