@@ -8,7 +8,7 @@
 ```js
 
   module.exsports = {
-      ME : {
+     ME : {
         Name : Non,
         Age : Try To Guess,
         Language : {
@@ -21,9 +21,9 @@
               CSS : 📙 ,
               Java : ❌ ,
               TypeScript : 📙 ,
-         },
-         FavouriteHololive : Lamy Chan✨ ,
-      },
+        },
+        FavouriteHololive : Lamy Chan✨ ,
+     },
   };
 ```
 
