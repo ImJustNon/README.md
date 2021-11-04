@@ -36,7 +36,7 @@
 
 <h2 align="center">🎨 <strong>My Activity</strong> 🎨</h2>
 
-<p><img align="center" src="https://komarev.com/ghpvc/?username=imjustnon&label=Profile%20views&color=0e75b6&style=flat" /></p>
+<img align="center" src="https://komarev.com/ghpvc/?username=imjustnon&label=Profile%20views&color=0e75b6&style=flat" />
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imjustnon&show_icons=true&locale=en&layout=compact" /></p>
 <p><img align="right" src="https://github-profile-trophy.vercel.app/?username=imjustnon&row=2&column=3" /></p>
 
