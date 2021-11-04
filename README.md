@@ -36,7 +36,7 @@
 <h2 align="center">🎨 <strong>My Activity</strong> 🎨</h2>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imjustnon&show_icons=true&locale=en&layout=compact" />
-<img align="left" src="https://github-profile-trophy.vercel.app/?username=imjustnon" />
+<img src="https://github-profile-trophy.vercel.app/?username=imjustnon" />
 
 
 <!--⚙ **[Source Code](https://github.com/ImJustNon/ImJustNon)** ⚙ -->
