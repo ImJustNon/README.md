@@ -1,4 +1,4 @@
-<h1 align="center">🍺 W E L C O M E - T O - M Y - P R O F I L E 🍺</h1>
+<h1 align="center">🍺 W E L C O M E ➖ T O ➖ M Y ➖ P R O F I L E 🍺</h1>
 
 <h3 align="left">⏬ ─ ✨ <strong>About Me</strong> ✨ ──────────────────────────────────── 📊 <strong>My Stats</strong> 📊 ─ ⏬</h3> 
 
