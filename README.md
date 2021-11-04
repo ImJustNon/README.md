@@ -34,8 +34,8 @@
 ![](https://cdn.discordapp.com/attachments/831877886680104971/905424865190899723/Konachan.com_-_323955_sample.jpg)
 
 <h2 align="center">🎨 <strong>My Activity</strong> 🎨</h2>
-<img align="right" src="https://github-profile-trophy.vercel.app/?username=imjustnon" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=imjustnon&show_icons=true&locale=en&layout=compact" />
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imjustnon&show_icons=true&locale=en&layout=compact" />
 <img align="right" src="https://github-profile-trophy.vercel.app/?username=imjustnon" />
 
 
