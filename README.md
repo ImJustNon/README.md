@@ -35,8 +35,9 @@
 
 <h2 align="center">🎨 <strong>My Activity</strong> 🎨</h2>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imjustnon" alt="imjustnon" /></a> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imjustnon&show_icons=true&locale=en&layout=compact" alt="imjustnon" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imjustnon&show_icons=true&locale=en&layout=compact" /></p>
+ <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imjustnon" /></a> 
+
 
 ⚙ **[Source Code](https://github.com/ImJustNon/ImJustNon)** ⚙
 
