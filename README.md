@@ -33,5 +33,7 @@
 
 ![](https://cdn.discordapp.com/attachments/831877886680104971/905424865190899723/Konachan.com_-_323955_sample.jpg)
 
+<h2> align="center"> My Activity </h2>
+
 ⚙ **[Source Code](https://github.com/ImJustNon/ImJustNon)** ⚙
 
