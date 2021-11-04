@@ -3,7 +3,7 @@
 <h3 align="left">⏬ ─ ✨ <strong>About Me</strong> ✨ ──────────────────────────────────── 📊 <strong>My Stats</strong> 📊 ─ ⏬</h3> 
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ImJustNon&&show_icons=true&title_color=427bff&icon_color=bb2acf&text_color=000000&bg_color=FFFFFF" alt="imjustnon"/>
+<img align="right" src="" alt="imjustnon"/>
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=imjustnon&" alt="imjustnon"/> 
 
 ```js
