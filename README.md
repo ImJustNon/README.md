@@ -29,11 +29,11 @@
 <br /> <br /> 
 
 
-<h1 align="center">💖 My Favourite Hololive 💖</h1>
+<h2 align="center">💖 My Favourite Hololive 💖</h2>
 
 ![](https://cdn.discordapp.com/attachments/831877886680104971/905424865190899723/Konachan.com_-_323955_sample.jpg)
 
-<h2 align="center"> My Activity </h2>
+<h2 align="center">🎨 <strong>My Activity</strong> 🎨</h2>
 
 ⚙ **[Source Code](https://github.com/ImJustNon/ImJustNon)** ⚙
 
