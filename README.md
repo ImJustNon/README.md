@@ -63,7 +63,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imjustnon&show_icons=true&locale=en&layout=compact" />
 <img align="right" src="https://github-profile-trophy.vercel.app/?username=imjustnon&row=2&column=3" />
 
-<br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> 
+<br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br />
 
 <h4>
   <a href="https://example.com" target="_blank">
