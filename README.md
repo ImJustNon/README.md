@@ -35,7 +35,7 @@
 ![](https://cdn.discordapp.com/attachments/831877886680104971/905424865190899723/Konachan.com_-_323955_sample.jpg)
 
 <h2 align="center">📓 Languages And Tools 🔨<h2>
-  
+<!--
 <p align="center"> 
   <a href="https://www.gnu.org/software/bash/" target="_blank"> 
      <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
@@ -56,7 +56,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
 </p>
-
+-->
 <h2 align="center">🎨 <strong>My Activity</strong> 🎨</h2>
 
 <img align="center" src="https://komarev.com/ghpvc/?username=imjustnon&label=Profile%20views&color=0e75b6&style=flat" />
