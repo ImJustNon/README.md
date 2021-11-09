@@ -30,7 +30,7 @@
 <br /> <br /> 
 
 
-<h2 align="center">💖 My Waifu 💖</h2>
+<h2 align="center">💖 My Favorite Waifu 💖</h2>
 
 ![](https://cdn.discordapp.com/attachments/831877886680104971/905424865190899723/Konachan.com_-_323955_sample.jpg)
 
