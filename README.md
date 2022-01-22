@@ -12,17 +12,17 @@
   
      ME : {
         Name : Non,
-        Age : Try To Guess,
+        Age : 'Try To Guess',
         Language : {
-              Python : ✅ ,
-              Lua : ✅ ,
-              C : ❌ ,
-              C# : 📙 ,
-              JavaScript : ✅ ,
-              HTML : 📙 ,
-              CSS : 📙 ,
-              Java : ❌ ,
-              TypeScript : 📙 ,
+              Python : '✅' ,
+              Lua : '✅' ,
+              C : '❌' ,
+              C# : '📙' ,
+              JavaScript : '✅' ,
+              HTML : '📙' ,
+              CSS : '📙' ,
+              Java : '❌' ,
+              TypeScript : '📙' ,
         },
      },
   };
