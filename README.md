@@ -34,13 +34,14 @@
 
 ![](https://cdn.discordapp.com/attachments/831877886680104971/905424865190899723/Konachan.com_-_323955_sample.jpg)
 
+<!-- 
 <h2 align="center">📓 Languages And Tools 🔨<h2>
 
-<!--<p align="center"> 
+<p align="center"> 
   <a href="https://www.gnu.org/software/bash/" target="_blank"> 
      <img src="" alt="bash" width="40" height="40"/> 
   </a> 
-</p>-->
+</p> -->
 
 <h2 align="center">🎨 <strong>My Activity</strong> 🎨</h2>
 
