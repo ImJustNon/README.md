@@ -33,7 +33,7 @@
 
 <h2 align="center">💖 My Favorite Waifu 💖</h2>
 
-![](https://cdn.discordapp.com/attachments/933667577207611402/944210865568227328/Yukihana_Lamy_Portrait_3.png)
+![](https://cdn.discordapp.com/attachments/831877886680104971/905424865190899723/Konachan.com_-_323955_sample.jpg)
 
 <!-- 
 <h2 align="center">📓 Languages And Tools 🔨<h2>
