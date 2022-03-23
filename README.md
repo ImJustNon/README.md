@@ -33,7 +33,7 @@
 
 <h2 align="center">💖 My Waifu 💖</h2>
 
-<img align="center" src="https://cdn.discordapp.com/attachments/770239077273436190/954221008292806737/unnamed_2.png" />
+<img align="center" src="https://cdn.discordapp.com/attachments/770239077273436190/956125174481178644/dfd3a1e6fe76ce54.png" />
 
 <!-- 
 <h2 align="center">📓 Languages And Tools 🔨<h2>
