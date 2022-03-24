@@ -28,7 +28,6 @@
      },
   };
 ```
-<br />
 
 
 <h2 align="center">💖 My Waifu 💖</h2>
