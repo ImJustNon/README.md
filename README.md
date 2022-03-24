@@ -32,7 +32,7 @@
 
 <h2 align="center">💖 My Waifu 💖</h2>
 
-<img align="center" href="https://www.youtube.com/channel/UCLNBff3KDEUxdfH_lkvyOKQ" src="https://cdn.discordapp.com/attachments/770239077273436190/956127559375020102/1.png"/>
+<img href="https://www.youtube.com/channel/UCLNBff3KDEUxdfH_lkvyOKQ" align="center" src="https://cdn.discordapp.com/attachments/770239077273436190/956127559375020102/1.png"/>
 
 <!-- 
 <h2 align="center">📓 Languages And Tools 🔨<h2>
