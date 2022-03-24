@@ -9,7 +9,6 @@
 ```js
 
   module.exsports = {
-  
      ME : {
         Name : Non,
         Age : 'Try To Guess',
@@ -25,7 +24,10 @@
               Java : '📙' ,
               TypeScript : '📙' ,
         },
-        Dream : 'Wanna Make Harem In Different World',
+        Dream : [
+              'Wanna Make Harem In Different World',
+              ''
+        ],
      },
   };
 ```
