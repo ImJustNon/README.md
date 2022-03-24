@@ -25,6 +25,7 @@
               Java : '📙' ,
               TypeScript : '📙' ,
         },
+        Dream : 'Wanna Make Harem In Different World',
      },
   };
 ```
