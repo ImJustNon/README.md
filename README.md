@@ -31,9 +31,11 @@ module.exsports = {
 
 
 <h2 align="center">💖 Good Encouragement For Me 💖</h2>
-<a target="_blank" href="https://www.youtube.com/channel/UCLNBff3KDEUxdfH_lkvyOKQ">
-     <img  align="center" src="https://cdn.discordapp.com/attachments/831877886680104971/960732825542344704/reilung.png"/>
+
+<a href="https://www.youtube.com/channel/UCLNBff3KDEUxdfH_lkvyOKQ" target="_blank">
+     <img align="center" src="https://cdn.discordapp.com/attachments/831877886680104971/960732825542344704/reilung.png"/>
 </a>
+
 <!-- 
 <h2 align="center">📓 Languages And Tools 🔨<h2>
 
