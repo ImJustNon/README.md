@@ -31,7 +31,7 @@ module.exsports = {
 
 
 <h2 align="center">💖 Good Encouragement For Me 💖</h2>
-<a href="https://www.youtube.com/channel/UCLNBff3KDEUxdfH_lkvyOKQ">
+<a target="_blank" href="https://www.youtube.com/channel/UCLNBff3KDEUxdfH_lkvyOKQ">
      <img  align="center" src="https://cdn.discordapp.com/attachments/831877886680104971/960732825542344704/reilung.png"/>
 </a>
 <!-- 
