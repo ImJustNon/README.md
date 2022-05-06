@@ -38,7 +38,7 @@ module.exsports = {
      </a>
 </p>   
 <p align="center"> 
-     <img src="https://cdn.discordapp.com/attachments/831877886680104971/972008604473360384/Screenshot_10.png" alt="bash" width="40" height="40"/> 
+     <img src="https://cdn.discordapp.com/attachments/831877886680104971/972008604473360384/Screenshot_10.png" alt="bash" width="213" height="120"/> 
 </p>    
 
 <!-- 
