@@ -37,6 +37,9 @@ module.exsports = {
           <img src="https://cdn.discordapp.com/attachments/831877886680104971/972008353775632474/Lunggggggg.png" alt="Reilung"/>
      </a>
 </p>   
+<p align="center"> 
+     <img src="https://cdn.discordapp.com/attachments/831877886680104971/972008604473360384/Screenshot_10.png" alt="bash" width="40" height="40"/> 
+</p>    
 
 <!-- 
 <h2 align="center">📓 Languages And Tools 🔨<h2>
