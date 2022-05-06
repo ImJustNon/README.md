@@ -57,7 +57,7 @@ module.exsports = {
 <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br />
 
 <h4>
-  <a href="https://github.com/ImJustNon/ImJustNon" target="_blank">
+  <a href="https://github.com/ImJustNon/ImJustNon/blob/main/README.md?plain=1" target="_blank">
     <strong>⚙ Source Code ⚙</strong>
   </a>
 </h4>
