@@ -34,7 +34,7 @@ module.exsports = {
 
 <p align="center"> 
      <a href="https://www.youtube.com/channel/UCLNBff3KDEUxdfH_lkvyOKQ" target="_blank">
-          <img src="https://cdn.discordapp.com/attachments/831877886680104971/960732825542344704/reilung.png" alt="Reilung"/>
+          <img src="https://cdn.discordapp.com/attachments/831877886680104971/972008353775632474/Lunggggggg.png" alt="Reilung"/>
      </a>
 </p>   
 
