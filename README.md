@@ -66,5 +66,8 @@ module.exsports = {
 Helpful Website For Make Your README.md : https://rahuldkjain.github.io/gh-profile-readme-generator/ 
 -->
 
-<script></script>
+<script type="text/javascript">
+     var print = console.log();
+     print("Hello, World!!");
+</script>
 
