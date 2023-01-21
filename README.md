@@ -24,7 +24,7 @@ module.exsports = {
               Java : '📙' ,
               TS : '📙' ,
         },
-        Dream : ['Get Away From JavaScript'],
+        Dream : ['Getaway From JavaScript'],
      },
   };
 ```
