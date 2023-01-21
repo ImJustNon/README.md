@@ -51,10 +51,10 @@ module.exsports = {
 <h2 align="center">🎨 <strong>My Activity</strong> 🎨</h2>
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imjustnon&show_icons=true&locale=en&layout=compact" />
+<img align="left" src="https://github-profile-trophy.vercel.app/?username=imjustnon&row=2&column=3" />
 <img align="right" src="https://count.getloli.com/get/@imjustnon?theme=rule34" />
 <img align="right" src="https://lanyard.cnrad.dev/api/708965153131200594">
-<img align="left" src="https://github-profile-trophy.vercel.app/?username=imjustnon&row=2&column=3" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imjustnon&show_icons=true&locale=en&layout=compact" />
 
 <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br />
 
