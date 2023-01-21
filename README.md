@@ -16,7 +16,7 @@ module.exsports = {
               Py : '✅' ,
               Lua : '✅' ,
               C : '✅' ,
-              CPP : '📙' ,
+              SQL : '✅' ,
               CS : '📙' ,
               JS : '✅' ,
               HTML : '✅' ,
