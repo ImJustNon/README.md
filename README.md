@@ -53,7 +53,7 @@ module.exsports = {
 
 <img align="left" src="https://github-profile-trophy.vercel.app/?username=imjustnon&row=2&column=3" />
 <br>
-<img align="right" src="https://count.getloli.com/get/@imjustnon?theme=rule34" />
+<img align="right" src="https://moe-counter.glitch.me/get/@imjustnon?theme=rule34" />
 <br>
 <img align="right" src="https://lanyard.cnrad.dev/api/708965153131200594">
 <br>
