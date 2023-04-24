@@ -10,9 +10,9 @@
 
 module.exsports = {
      ME : {
-        Name: 'Non',
-        Age: 'Try To Guess',
-        Language: {
+        Name : 'Non',
+        Age : 'Try To Guess',
+        Language : {
               Py : '😵' ,
               Lua : '✅' ,
               C : '😵' ,
@@ -24,7 +24,7 @@ module.exsports = {
               EJS : '✅' ,
               TS : '📙' ,
         },
-        Description: "Java" !== "JavaScript",
+        Description : "Java" !== "JavaScript",
      },
   };
 ```
