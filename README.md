@@ -72,7 +72,7 @@ Helpful Website For Make Your README.md : https://rahuldkjain.github.io/gh-profi
 -->
 
 <script type="text/javascript">
-     var print = console.log();
+     var print = console.log;
      print("Hello, World!!");
 </script>
 
