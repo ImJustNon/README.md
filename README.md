@@ -8,7 +8,7 @@
 
 ```js
 
-module.exsports = {
+module.exports = {
      ME : {
         Name : 'Non',
         Age : 'Try To Guess',
