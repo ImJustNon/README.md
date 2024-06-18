@@ -122,11 +122,13 @@
 <br clear="both">
 
 <h3 align="left">Stats</h3>
+<img align="center" height="150" src="./assets/5LYzTBVoS196gvYvw3zjwI6dbw19qysxdOlqR6dNT_w.gif"  /> 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ImJustNon&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img height="150" src="./assets/5LYzTBVoS196gvYvw3zjwI6dbw19qysxdOlqR6dNT_w-ezgif.com-crop.gif"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ImJustNon&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ImJustNon&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=ImJustNon&locale=en&mode=daily&theme=react&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ImJustNon&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=ImJustNon&theme=nord&no-frame=true&no-bg=true&column=8" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ImJustNon&theme=nord&hide_border=true&hide_title=false&area=true" height="150" alt="activity-graph graph"  />
 </div>
 
 <img src="https://raw.githubusercontent.com/ImJustNon/ImJustNon/output/snake.svg" alt="Snake animation" />
-
