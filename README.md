@@ -133,4 +133,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ImJustNon&theme=nord&hide_border=true&hide_title=false&area=true" height="150" alt="activity-graph graph"  />
 </div>
 
+
+<br clear="both">
+<h3 align="left">Just a Stupid Snake</h3>
 <img src="https://raw.githubusercontent.com/ImJustNon/ImJustNon/output/snake.svg" alt="Snake animation" />
